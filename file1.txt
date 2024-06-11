@@ -1,0 +1,22 @@
+git commands:-
+
+-> git init
+        (Initialized empty Git repository)
+-> git add filename
+        (to track the file)
+-> git commit -m "file1 commited"
+         (file1 commited)
+-> git branch -M main 
+        (to change the branch from master to main)
+-> ssh-keygen -o 
+        (Generating public/private rsa key pair)
+-> cat url(path url)
+        (cat doesn't play a role in SSH key generation or its functionality. 
+         It's just a tool to view the content (your public key) stored in the id_rsa.pub file)
+
+-> git remote add origin url
+-> git push -u origin main
+        (git push: command used for pushing local commits to a remote repository.
+               -u: This flag tells git to set an "upstream" branch for the current branch.
+           origin: This is the shorthand name for the remote repository you're pushing to. It's typically set up when you clone the repository for the first time.
+             main: This is the name of the local branch you're pushing to the remote repository.)
