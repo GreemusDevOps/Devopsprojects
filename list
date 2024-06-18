@@ -1,0 +1,2 @@
+greemus=['manu',108,'manu@greemus']
+print(greemus)
