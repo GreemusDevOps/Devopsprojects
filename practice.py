@@ -1,0 +1,12 @@
+manu=[ 'reddy',40,'reddy@greemus']
+print(type(manu))
+manu.append(20)
+print(manu)
+manu.remove(20)
+print(manu)
+print (manu[2])
+print(manu[-1])
+print(manu[1:2])
+print(manu[:3])
+print(manu[:2])
+print(40 in (manu))
