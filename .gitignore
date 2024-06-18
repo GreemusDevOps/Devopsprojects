@@ -1,0 +1,8 @@
+Ignore specific files:
+.log
+.pyc
+Ignore specific directories
+/build/ 
+logs/ 
+/node_modules/ 
+/venv/ 
