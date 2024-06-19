@@ -1,3 +1,3 @@
-fruits={"apple","orange","mango","banana","sapota","papaya"}
-for fruits in fruits:
-    print(fruits)
+for x in range(3):
+    for y in range(2):
+        print(x, y)
