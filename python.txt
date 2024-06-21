@@ -1,0 +1,7 @@
+python -- data types
+           set,list,tuple,dictionary}diff
+             is it possible   append in dictionary
+         operators
+            conditional statements ---loops,conditional and unconditional and break and continue and fast
+        data structures
+        file modes

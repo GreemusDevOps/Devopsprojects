@@ -1,0 +1,11 @@
+create database --- create database database_name;
+drop   database --- drop database  database_name;
+rename database ---
+select database ---  use database_name;
+
+
+table 
+
+create table --- create table table_name;
+rename table --- rename table old_name to new_name;
+drop table ----  drop table table_name;
