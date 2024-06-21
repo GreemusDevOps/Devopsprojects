@@ -1,0 +1,10 @@
+set1 = {1,4,5,7,8,9}
+set2 = {1,12,4,6,7}
+union_result = set1.union(set2)
+intersection_result = set1.intersection(set2)
+difference_set1_set2 = set1.difference(set2)
+difference_set2_set1 = set2.difference(set1)
+print("Union of the sets:", union_result)
+print("Intersection of the sets:", intersection_result)
+print("Difference of set1 - set2:", difference_set1_set2)
+print("Difference of set2 - set1:", difference_set2_set1)

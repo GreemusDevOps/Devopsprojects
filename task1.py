@@ -1,7 +1,7 @@
-multiplier=5
-start=1
-end=10
-while start<=end:
-    result=start*multiplier
-    print(f"{start}*{multiplier}={result}")
-    start+=1
+num = float(input("Enter a number: "))
+if num > 0:
+    print("The number is positive.")
+elif num < 0:
+    print("The number is negative.")
+else:
+    print("The number is zero.")
